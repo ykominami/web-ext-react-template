@@ -27,12 +27,12 @@
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.40.0",
     "chokidar": "^3.5.3",
-    "eslint": "^8.25.0",
+    "eslint": "^8.56.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-react": "^7.31.10",
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "2.7.1",
-    "ts-node": "^10.9.1",
+    "ts-node": "^10.9.2",
     "typescript": "^4.8.4",
     "web-ext": "^7.2.0"
   }
