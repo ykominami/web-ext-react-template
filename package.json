@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.28",
-    "@types/react-dom": "^18.2.19",
+    "@types/react-dom": "^18.2.25",
     "@types/webextension-polyfill": "^0.10.7",
     "@typescript-eslint/eslint-plugin": "^5.40.0",
     "@typescript-eslint/parser": "^5.62.0",
@@ -33,7 +33,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "3.2.5",
     "ts-node": "^10.9.2",
-    "typescript": "^5.3.3",
+    "typescript": "^5.4.5",
     "web-ext": "^7.11.0"
   }
 }
