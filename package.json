@@ -33,7 +33,7 @@
     "eslint-plugin-react-hooks": "^6.0.0",
     "prettier": "3.6.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.2",
+    "typescript": "^5.9.3",
     "web-ext": "^8.9.0"
   }
 }
