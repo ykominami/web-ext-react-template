@@ -527,10 +527,10 @@
   dependencies:
     undici-types "~7.16.0"
 
-"@types/react-dom@^19.2.2":
-  version "19.2.2"
-  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-19.2.2.tgz#a4cc874797b7ddc9cb180ef0d5dc23f596fc2332"
-  integrity sha512-9KQPoO6mZCi7jcIStSnlOWn2nEF3mNmyr3rIAsGnAbQKYbRLyqmeSc39EVgtxXVia+LMT8j3knZLAZAh+xLmrw==
+"@types/react-dom@^19.2.3":
+  version "19.2.3"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-19.2.3.tgz#c1e305d15a52a3e508d54dca770d202cb63abf2c"
+  integrity sha512-jp2L/eY6fn+KgVVQAOqYItbF0VY/YApe5Mz2F0aykSO8gx31bYCZyvSeYxCHKvzHG5eZjc+zyaS5BrBWya2+kQ==
 
 "@types/semver@^7.3.12":
   version "7.3.13"
@@ -1118,12 +1118,12 @@ cheerio@1.1.2:
     undici "^7.12.0"
     whatwg-mimetype "^4.0.0"
 
-chokidar@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-4.0.3.tgz#7be37a4c03c9aee1ecfe862a4a23b2c70c205d30"
-  integrity sha512-Qgzu8kfBvo+cA4962jnP1KkS6Dop5NS6g7R5LFYJr4b8Ub94PPQXUksCw9PvXoeXPRRddRNC5C1JQUR2SMGtnA==
+chokidar@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-5.0.0.tgz#949c126a9238a80792be9a0265934f098af369a5"
+  integrity sha512-TQMmc3w+5AxjpL8iIiwebF73dRDF4fBIieAqGn9RGCWaEVwQ6Fb2cGe31Yns0RRIzii5goJ1Y7xbMwo1TxMplw==
   dependencies:
-    readdirp "^4.0.1"
+    readdirp "^5.0.0"
 
 chrome-launcher@1.2.0:
   version "1.2.0"
@@ -3712,10 +3712,10 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier@3.6.2:
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.6.2.tgz#ccda02a1003ebbb2bfda6f83a074978f608b9393"
-  integrity sha512-I7AIg5boAr5R0FFtJ6rCfD+LFsWHp81dolrFD8S79U9tb8Az2nGrJncnMSnys+bpQJfRUzqs9hnA81OAA3hCuQ==
+prettier@3.7.3:
+  version "3.7.3"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.7.3.tgz#99a8891f6c990cfa54bcff2a0d276e6f845e59ab"
+  integrity sha512-QgODejq9K3OzoBbuyobZlUhznP5SKwPqp+6Q6xw6o8gnhr4O85L2U915iM2IDcfF2NPXVaM9zlo9tdwipnYwzg==
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
@@ -3810,10 +3810,10 @@ readable-stream@^2.2.2, readable-stream@~2.3.6:
     string_decoder "~1.1.1"
     util-deprecate "~1.0.1"
 
-readdirp@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/readdirp/-/readdirp-4.0.1.tgz#b2fe35f8dca63183cd3b86883ecc8f720ea96ae6"
-  integrity sha512-GkMg9uOTpIWWKbSsgwb5fA4EavTR+SG/PMPoAY8hkhHfEEY0/vqljY+XHqtDf2cr2IJtoNRDbrrEpZUiZCkYRw==
+readdirp@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/readdirp/-/readdirp-5.0.0.tgz#fbf1f71a727891d685bb1786f9ba74084f6e2f91"
+  integrity sha512-9u/XQ1pvrQtYyMpZe7DXKv2p5CNvyVwzUB6uhLAnQwHMSgKMBR62lc7AHljaeteeHXn11XTAaLLUVZYVZyuRBQ==
 
 real-require@^0.2.0:
   version "0.2.0"
