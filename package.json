@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "esbuild": "^0.27.0",
-    "react": "^19.1.1",
+    "react": "^19.2.3",
     "react-dom": "^19.2.0",
     "webextension-polyfill": "^0.12.0"
   },
