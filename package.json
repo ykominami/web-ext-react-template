@@ -15,7 +15,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "esbuild": "^0.27.1",
+    "esbuild": "^0.27.2",
     "react": "^19.1.1",
     "react-dom": "^19.2.0",
     "webextension-polyfill": "^0.12.0"
