@@ -30,8 +30,8 @@
     "eslint": "^8.57.1",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-react": "^7.37.2",
-    "eslint-plugin-react-hooks": "^7.1.1",
-    "prettier": "3.8.2",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "prettier": "3.8.3",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3",
     "web-ext": "^10.1.0"
